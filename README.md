@@ -17,9 +17,13 @@
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/aws-athena-hv6gsv93ozj2o0gsxdtg6m.png/aws-athena-jan6k55udjsv6va5uwobn.png?_a=DATAiZAAZAA0" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" width="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wBizqY6LoRyWJ7Xgr2CXVGBTLwkx9VIflQ&s" width="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8oc9rEzkFAbyQxF6TYgfCoCwmKjsFH9O8QA&s" width="50"/>
 </p>
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiIsai)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiIsai" />
+</p>
+
 
