@@ -2,13 +2,13 @@
 
 ###
 
-
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+  ![S3](https://img.shields.io/badge/Amazon_S3-569A31?logo=amazons3&logoColor=white)
+  ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white)
+  ![Glue](https://img.shields.io/badge/AWS_Glue-232F3E?logo=amazonaws&logoColor=white)
+  ![Athena](https://img.shields.io/badge/Amazon_Athena-232F3E?logo=amazonaws&logoColor=white)
+
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
