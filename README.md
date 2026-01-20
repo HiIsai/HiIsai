@@ -9,6 +9,18 @@
 ###
 
 <p align="center">
+  <a href="mailto:comandoisai@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://isaiperez.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+
+###
+
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" width="50"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-s3-logo-icon-svg-download-png-2464706.png" width="50"/>
