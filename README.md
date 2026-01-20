@@ -3,7 +3,13 @@
 ###
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,py,git,docker" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" width="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-s3-logo-icon-svg-download-png-2464706.png" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" width="50"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/aws-glue-9ztw380gkkd1g54iwwsq7.png/aws-glue-g9i4j0s3igbjmai4vernz9.png?_a=DATAg1AAZAA0" width="50"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/aws-athena-hv6gsv93ozj2o0gsxdtg6m.png/aws-athena-jan6k55udjsv6va5uwobn.png?_a=DATAiZAAZAA0" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" width="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wBizqY6LoRyWJ7Xgr2CXVGBTLwkx9VIflQ&s" width="50"/>
 </p>
+
