@@ -19,4 +19,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5wBizqY6LoRyWJ7Xgr2CXVGBTLwkx9VIflQ&s" width="50"/>
 </p>
 
+###
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiIsai)
 
