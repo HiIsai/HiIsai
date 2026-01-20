@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Hi,%20I'm%20Isai%20Perez&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-###
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Engineer;AWS+%7C+Python+%7C+SQL;BI+%7C+Analytics+%7C+Cloud" />
 </p>
