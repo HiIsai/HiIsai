@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=778da9&center=true&vCenter=true&width=600&lines=Data+Engineer;AWS+%7C+Python+%7C+SQL;BI+%7C+Analytics+%7C+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=415a77&center=true&vCenter=true&width=600&lines=Data+Engineer;AWS+%7C+Python+%7C+SQL;BI+%7C+Analytics+%7C+Cloud" />
 </p>
 
 ###
@@ -35,7 +35,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiIsai&layout=compact&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiIsai&layout=compact&bg_color=0D1117&title_color=415a77&text_color=C9D1D9&hide_border=true" />
 </p>
 
 
