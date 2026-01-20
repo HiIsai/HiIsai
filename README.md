@@ -35,7 +35,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiIsai&layout=compact&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9&icon_color=FFCC00&border_color=00FF99" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiIsai&layout=compact&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9&hide_border=true" />
 </p>
 
 
