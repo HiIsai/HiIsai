@@ -1,4 +1,7 @@
-<h1 align="center">Hola 👋 Mucho Gusto!</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Hi,%20I'm%20Isai%20Perez&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 
 ###
 
